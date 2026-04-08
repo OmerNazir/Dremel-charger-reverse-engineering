@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "luna")(type "KiCad")(uri "${KIPRJMOD}/luna.kicad_sym")(options "")(descr ""))
+)

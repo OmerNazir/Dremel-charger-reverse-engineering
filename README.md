@@ -1,6 +1,6 @@
-# Bosch Charger Reverse Engineering
+# Bosch/Dremel Charger Reverse Engineering
 
-This repository contains a reverse-engineered KiCad schematic of a Bosch Li-ion battery charger.
+This repository contains a reverse-engineered KiCad schematic of a Bosch/Dremel 3 Li-ion battery charger.
 
 ## Purpose
 
